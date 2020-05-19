@@ -1,8 +1,9 @@
 ```
-Student name: Linda Danvers
-Student number: 123456
+Student name: Xuanqi Dai
+Student number: 8120080
 Course code: ITI1121
 Lab: Lab01
-Course section: 02
-Java: 1.8
+Course section: 03
+TA: Diana Lucaci
+Java: 14.0.1
 ```
